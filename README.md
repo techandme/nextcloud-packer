@@ -3,7 +3,7 @@ This repo contains template(s) for installing Nextcloud with Packer.
 
 ## Install Nextcloud with Packer
 1. `git clone https://github.com/techandme/nextcloud-packer.git`
-2. `cd nextcloud-packer.git`
+2. `cd nextcloud-packer`
 3. `make`
 
 ## Dependencies
